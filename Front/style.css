@@ -97,6 +97,12 @@ html {
     transition: none;
   }
 
+  .header .navbar.active {
+    transform: scale(1);
+    opacity: 1;
+    transition: 0.2s ease-out;
+  }
+
   .header .navbar a {
     display: block;
     font-size: 2rem;
