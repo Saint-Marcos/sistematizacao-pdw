@@ -256,6 +256,7 @@ section:nth-child(even) {
   color: var(--black);
   line-height: 1.8;
   text-shadow: var(--text-shadow);
+  text-align: center;
 }
 
 .about .row .content p {
