@@ -18,3 +18,5 @@ window.onscroll = () => {
     navbar.classList.remove("active");
   }
 };
+
+// Depois resolveremos o problema do menu que não retorna a barra ao dar scroll e voltar ao topo da página.
