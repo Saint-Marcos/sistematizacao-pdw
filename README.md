@@ -13,5 +13,5 @@ Para visualizar o projeto em seu browser através do localhost, siga as seguinte
 5- Inicie o servidor usando o comando: http-server -p 5500.
 6- Abra um navegador e acesse http://localhost:5500 para ver o projeto.
 
-Um jeito mais fácil de se fazer isso é instalando a extenção Live-Server diretamente no seu VSCode.
+Um jeito mais fácil de se fazer isso é instalando a extensão Live-Server diretamente no seu VSCode.
 Ele iniciará um servidor automaticamente e lhe exibirá no browser.
